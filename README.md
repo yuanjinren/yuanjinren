@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am a data scientist. Love doing data analysis and machine learning modeling! 
+
 <!--
 **yuanjinren/yuanjinren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
